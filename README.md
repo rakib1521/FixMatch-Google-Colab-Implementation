@@ -16,7 +16,9 @@ This implementation is done for Multiclass Classification, Multi Label Classific
 ## Results: Classification Accuracy (%)
 
 ["Multiclass Classification"](https://wandb.ai/rakib1521/Fixmatch_Multiclass_Implementation?workspace=user-rakib1521) 
+
 ["Multi Label Classification"](https://wandb.ai/rakib1521/Fixmatch_Multilabel_Implementation?workspace=user-rakib1521)
+
 ["Multi output Classification"](https://wandb.ai/rakib1521/Fixmatch_Multioutput_Implementation?workspace=user-rakib1521)
 
 
@@ -24,5 +26,7 @@ This implementation is done for Multiclass Classification, Multi Label Classific
 ### Authored by:
 
 Rakib Hossain Rifat
+
 Machine Learning Engineer
+
 Polyfins Technology Inc.
